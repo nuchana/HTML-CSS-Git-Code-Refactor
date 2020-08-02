@@ -20,8 +20,8 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
+span.seo {
+    color: #d9dcd6
 }
 
 .header div {
