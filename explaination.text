@@ -1,0 +1,7 @@
+What I did
+
+- Follow HTML5 sematic flow by adding header, footer, nav, section, figure elements where are appropriate to ensure accessibility. 
+- In css style sheet, there were a lot of repetitive commands so I use class selector to style every <content> and <benefit> elements. 
+- When I view the image elements, I add alt attributes.
+- When I view the title element, I find a concise, descriptive title - One-stop social media solutions.
+- Fix a link of search-engine-optimization in nav part as it wasn't working when you click it.
